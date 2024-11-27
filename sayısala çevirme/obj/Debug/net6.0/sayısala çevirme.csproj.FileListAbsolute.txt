@@ -1,0 +1,15 @@
+/Users/alperates/RiderProjects/ders09/sayısala çevirme/bin/Debug/net6.0/sayısala çevirme
+/Users/alperates/RiderProjects/ders09/sayısala çevirme/bin/Debug/net6.0/sayısala çevirme.deps.json
+/Users/alperates/RiderProjects/ders09/sayısala çevirme/bin/Debug/net6.0/sayısala çevirme.runtimeconfig.json
+/Users/alperates/RiderProjects/ders09/sayısala çevirme/bin/Debug/net6.0/sayısala çevirme.dll
+/Users/alperates/RiderProjects/ders09/sayısala çevirme/bin/Debug/net6.0/sayısala çevirme.pdb
+/Users/alperates/RiderProjects/ders09/sayısala çevirme/obj/Debug/net6.0/sayısala çevirme.csproj.AssemblyReference.cache
+/Users/alperates/RiderProjects/ders09/sayısala çevirme/obj/Debug/net6.0/sayısala çevirme.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alperates/RiderProjects/ders09/sayısala çevirme/obj/Debug/net6.0/sayısala çevirme.AssemblyInfoInputs.cache
+/Users/alperates/RiderProjects/ders09/sayısala çevirme/obj/Debug/net6.0/sayısala çevirme.AssemblyInfo.cs
+/Users/alperates/RiderProjects/ders09/sayısala çevirme/obj/Debug/net6.0/sayısala çevirme.csproj.CoreCompileInputs.cache
+/Users/alperates/RiderProjects/ders09/sayısala çevirme/obj/Debug/net6.0/sayısala çevirme.dll
+/Users/alperates/RiderProjects/ders09/sayısala çevirme/obj/Debug/net6.0/refint/sayısala çevirme.dll
+/Users/alperates/RiderProjects/ders09/sayısala çevirme/obj/Debug/net6.0/sayısala çevirme.pdb
+/Users/alperates/RiderProjects/ders09/sayısala çevirme/obj/Debug/net6.0/sayısala çevirme.genruntimeconfig.cache
+/Users/alperates/RiderProjects/ders09/sayısala çevirme/obj/Debug/net6.0/ref/sayısala çevirme.dll
